@@ -1,0 +1,31 @@
+.left-side-border{
+    border: 1px solid #777;
+}
+
+.btn-width{
+    width: 6rem;
+}
+
+.btn-csmt-color{
+    background: #aed6f1;
+    color:#0069d9;
+}
+
+.logo-height{
+    height: 2rem;
+}
+
+.page-content-top-margin{
+    margin-top: 6rem;
+}
+
+.user-sign-up {
+    font-weight: bold;
+}
+
+.grid-display{
+    display: grid;
+    grid-template-columns: 85% 10%;
+    justify-content: start;
+    align-content: start;
+}
